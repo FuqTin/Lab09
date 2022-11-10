@@ -1,0 +1,6 @@
+E:\520H0586\StudentLib\TestProject\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+E:\520H0586\StudentLib\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.AssemblyReference.cache
+E:\520H0586\StudentLib\TestProject\obj\Debug\netcoreapp3.1\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\520H0586\StudentLib\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfoInputs.cache
+E:\520H0586\StudentLib\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfo.cs
+E:\520H0586\StudentLib\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CoreCompileInputs.cache
